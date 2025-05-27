@@ -1,13 +1,15 @@
+1 Fake Puzzle Piece: trap
 1 Puzzle Piece: mcguffin
 10 Puzzle Pieces: progression
 10/10!: filler
 100 Puzzle Pieces: progression
 104 Puzzle Pieces: unknown
 105 Puzzle Pieces: unknown
+106 Puzzle Pieces: unknown
 107 Puzzle Pieces: unknown
-108 Puzzle Pieces: unknown
+108 Puzzle Pieces: progression
 109 Puzzle Pieces: unknown
-11 Puzzle Pieces: unknown
+11 Puzzle Pieces: progression
 111 Puzzle Pieces: unknown
 113 Puzzle Pieces: progression
 117 Puzzle Pieces: unknown
@@ -24,7 +26,9 @@
 191 Puzzle Pieces: progression
 195 Puzzle Pieces: unknown
 2 Puzzle Pieces: progression
+20 Puzzle Pieces: progression
 21 Puzzle Pieces: unknown
+210 Puzzle Pieces: progression
 224 Puzzle Pieces: unknown
 227 Puzzle Pieces: unknown
 23 Puzzle Pieces: unknown
@@ -32,7 +36,9 @@
 237 Puzzle Pieces: progression
 24 Puzzle Pieces: unknown
 242 Puzzle Pieces: unknown
+246 Puzzle Pieces: unknown
 25 Puzzle Pieces: progression
+256 Puzzle Pieces: unknown
 26 Puzzle Pieces: progression
 27 Puzzle Pieces: progression
 28 Puzzle Pieces: progression
@@ -70,77 +76,168 @@
 72 Puzzle Pieces: progression
 74 Puzzle Pieces: progression
 75 Puzzle Pieces: progression
+76 Puzzle Pieces: progression
 77 Puzzle Pieces: unknown
 78 Puzzle Pieces: progression
 8 Puzzle Pieces: progression
 80 Puzzle Pieces: unknown
 9 Puzzle Pieces: progression
 91 Puzzle Pieces: unknown
+:3: unknown
+:3c: unknown
+:D: unknown
+:P: unknown
 A real one!: filler
 A+ effort!: filler
 Ace!: filler
+Acrobat Bike: unknown
+Adult Trap: unknown
 All-star!: filler
 Amazeballs!: filler
+Another Berry: unknown
+Another Puzzle: unknown
+Another_Geo_Rock: unknown
+Ascending_Dark: unknown
 Bang on!: filler
 Beaming!: filler
+Beetle_Claw: unknown
+Bigger Sword: unknown
 Bold move!: filler
+Bomb Sack: unknown
+Bonk Badge: unknown
 Boom!: filler
 Boss move!: filler
+Bottle with Green Milk: unknown
 Bravo!: filler
+Bus_Pass: unknown
+Butt Activation: unknown
+Button Activator: unknown
+Canoo: unknown
 Champ!: filler
 Chef's kiss!: filler
 Clean win!: filler
+Commence mint: unknown
+Counterfeit Rupee: unknown
 Crisp!: filler
 Crushed it!: filler
+Crystal_Fart: unknown
 Crème de la crème!: filler
 Delightful!: filler
 Deluxe!: filler
+Dime Piece: unknown
 Dreamy!: filler
 Epic!: filler
 Fantastic!: filler
+Feather Bodge: unknown
+Feeling of Dissatisfaction: unknown
+Finally Form: unknown
+Fire Beam: unknown
+Fire Red: unknown
 Fire!: filler
 Flawless!: filler
+Flipper Floppers: unknown
+Fly_Lantern: unknown
 Gleaming!: filler
+Glub: unknown
 Go you!: filler
 Gold star!: filler
+Gold420: unknown
+Gold69: unknown
 Good job!: filler
 Gorgeous!: filler
+Gravitational Suit: unknown
 Great work!: filler
+Grime Piece: unknown
+Grue: unknown
+HM03 Smurf: unknown
+Hate_Key: unknown
 Heck yes!: filler
 High five!: filler
+Hole Fragment: unknown
+Hookbit: unknown
 Hyped!: filler
+Ice Cod: unknown
+Ice Roe: unknown
 Iconic!: filler
 Impressive!: filler
+Intact Page: unknown
+Jack_Fragment: unknown
 Joyful!: filler
+Jumping Boots: unknown
+Kee: unknown
 Keep it up!: filler
 Keep slaying!: filler
 Killer move!: filler
 King stuff!: filler
+Kitties 01-99: unknown
+Large Grab: unknown
+Larian: unknown
+Latter: unknown
+Leather Badge: unknown
+Ledge Snab: unknown
 Legend stuff!: filler
 Legendary!: filler
 Look at you!: filler
 Love it!: filler
 Lush!: filler
+Maestro Ticket - Yellow: unknown
 Magic!: filler
 Masterful!: filler
+Mice Rod: unknown
+Monotonous: unknown
+Morph Sphere: unknown
+Mucky Emblem: unknown
 Nailed it!: filler
+Nice Rod: unknown
 Nice touch!: filler
 Nifty!: filler
 Niiice!: filler
 No cap!: filler
 No flaws!: filler
 On fire!: filler
+Output ZIP: unknown
+Patch File: unknown
 Peak form!: filler
 Perfection!: filler
+Pervasive Bow: unknown
+Poison Rod: unknown
+Pokey Ball: unknown
+Power Tar: unknown
 Power move!: filler
 Powerhouse!: filler
 Prime!: filler
+Progressional Bow: unknown
+Progressive Low: unknown
+Progressive Shove: unknown
 Proud of you!: filler
+Purian: unknown
+Purple Boomerang: unknown
+Puzel Piece: unknown
+Puzzle Pice: unknown
 Puzzle Piece: progression
 Radiant!: filler
+Regressive Bow: unknown
+Regressive Dots: unknown
+Regressive Fire: unknown
+Regressive Glove: unknown
+Regressive Hookshot: unknown
+Regressive Sword: unknown
+Regressive Thunder: unknown
+Relic (): unknown
+Relic (Horse): unknown
+Relic (Veggie Burger): unknown
 Right on!: filler
 Rockstar!: filler
+Role Fragment: unknown
+Roll Figment: unknown
+S P A Z E R: unknown
+S.8. Ticket: unknown
+S.S. Wicket: unknown
+Sarias Tune: unknown
+Shaman_Rock: unknown
 Sharp thinking!: filler
+Ship Ticket: unknown
+Ship: unknown
 Showstopper!: filler
 Slick!: filler
 Smooth!: filler
@@ -148,18 +245,33 @@ Snappy!: filler
 So cool!: filler
 So proud!: filler
 Solid!: filler
+Song of Fire: unknown
+Song of Forest: unknown
+Song of Water: unknown
+Speed Boost-er: unknown
+Speling Misstakes: unknown
 Splendid!: filler
 Squawks: filler
 Style points!: filler
+Sun Pearl: unknown
 Super clean!: filler
 Superstar!: filler
+Surf Badge: unknown
 Sweet!: filler
 That’s it!: filler
+Third Chance: unknown
 Thrilling!: filler
+Time Fleece: unknown
+Time Slice: unknown
+Tire Rod: unknown
 Too good!: filler
 Top tier!: filler
+Torque Ball: unknown
+Tune of Storms: unknown
+Tune of Time: unknown
 Ultra win!: filler
 Unreal!: filler
+Varia Armor: unknown
 Vibes!: filler
 Vivid!: filler
 Way to go!: filler
@@ -167,6 +279,7 @@ Well done!: filler
 Well played!: filler
 Whiz!: filler
 Whoa, nice!: filler
+Wire Rod: unknown
 Woohoo!: filler
 Woot!: filler
 Wowsers!: filler
@@ -180,3 +293,6 @@ You shine!: filler
 Yum!: filler
 Zesty!: filler
 Zing!: filler
+regressive-automation: unknown
+regressive-train-network: unknown
+regressive-vehicle: unknown
